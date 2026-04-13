@@ -400,8 +400,6 @@ docker compose exec redis redis-cli
 
 ## Conceptual Questions
 
-The following questions test your understanding of the concepts used in this project:
-
 ### Question 1: Complexity & Algorithm Efficiency
 
 **Q: What do Big-O, Big-$\Theta$, and Big-$\Omega$ describe, and how would you compare $O(n \log n)$ vs $O(n^2)$ in practice?**
